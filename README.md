@@ -7,6 +7,7 @@ Hi, I'm a software engineer.
 I have a passion for math, solving dynamic programming problems and designing high-performance architectures.
 
 Here are my preferred languages and frameworks:
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
