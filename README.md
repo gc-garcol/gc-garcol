@@ -2,6 +2,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thai-van-90b0681b2/)
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/garcol/)
 
+Hi, I'm a software engineer.
+
+I have a passion for math, solving dynamic programming problems, and designing high-performance architectures.
+
+My favorite languages and frameworks:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 <!--
 https://github.com/iampavangandhi/iampavangandhi
 
