@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/iampavangandhi](https://www.linkedin.com/in/thai-van-90b0681b2/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thai-van-90b0681b2/)
+[![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/garcol/)
 
 <!--
 https://github.com/iampavangandhi/iampavangandhi
