@@ -3,7 +3,7 @@
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/garcol/)
 [![Gist](https://img.shields.io/badge/My%20Gist-green)](https://gist.github.com/gc-garcol)
 
-Hi, I'm a software engineer.
+I'm a software engineer.
 
 I have a passion for math, solving dynamic programming problems and designing high-performance architectures.
 
@@ -28,11 +28,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <details>
   <summary><b>⚡ Used languages</b></summary>
 
   <br />
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gc-garcol&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gc-garcol&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gc-garcol&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
+-->
+
+<summary><b>⚡ Used languages</b></summary>
+<br />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gc-garcol&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
