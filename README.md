@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gc-garcol&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 <details>
-  <summary><b>⚡ Contributes</b></summary>
+  <summary><b>⚡ Github stats</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gc-garcol&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
