@@ -48,6 +48,4 @@ Here are some ideas to get you started:
 </div>
 
 <br />
-<div id="header">
-  <img src="https://komarev.com/ghpvc/?username=gc-garcol&style=for-the-badge&color=orange" alt=""/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=gc-garcol&style=for-the-badge&color=orange" alt=""/>
