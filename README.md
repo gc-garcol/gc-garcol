@@ -42,3 +42,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gc-garcol&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=gc-garcol&style=for-the-badge&color=orange" alt=""/>
+</div>
