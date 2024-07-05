@@ -41,8 +41,16 @@ Here are some ideas to get you started:
 <b>⚡ Used languages</b>
 <br />
 <br />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gc-garcol&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=gc-garcol&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gc-garcol&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=gc-garcol&style=for-the-badge&color=orange" alt=""/>
 </div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
