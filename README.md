@@ -42,10 +42,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<div align = "left">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=gc-garcol&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gc-garcol&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</div>
+<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=gc-garcol&show_icons=true&theme=vision-friendly-dark">
+<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gc-garcol&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 
 <br />
 <img src="https://komarev.com/ghpvc/?username=gc-garcol&style=for-the-badge&color=orange" alt=""/>
