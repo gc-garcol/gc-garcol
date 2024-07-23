@@ -12,6 +12,7 @@ Here are my preferred languages and frameworks:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring boot](https://camo.githubusercontent.com/75a98a8a16f937436b720e66b95918e979af503c9ce5304a87f8544a6ce585ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e67626f6f742d2532333644423333462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67626f6f74266c6f676f436f6c6f723d7768697465)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 <!--
 https://github.com/iampavangandhi/iampavangandhi
